@@ -1,0 +1,23 @@
+{
+  "name": "hangman-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anbroyar/hangman-cli.git"
+  },
+  "author": "Anbroyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anbroyar/hangman-cli/issues"
+  },
+  "homepage": "https://github.com/Anbroyar/hangman-cli#readme",
+  "dependencies": {
+    "inquirer": "^5.0.0",
+    "random-word": "^2.0.0"
+  }
+}
